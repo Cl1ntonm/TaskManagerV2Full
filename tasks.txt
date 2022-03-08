@@ -1,0 +1,29 @@
+admin, program, update taskmanager, 2022-01-20, 2021-12-30, yes
+linda, close, close up the shop, 2021-11-29, 2021-11-01, yes
+bob, waitress, serve customers, 2021-11-29, 2021-11-01, yes
+tina, clean up, clean up tables after the guests leave, 2021-11-29, 2021-11-01, yes
+gene, hostess, greet and seat customers, 2022-11-29, 2021-11-01, yes
+admin, user names, check if user names is still valid, 2021-12-15, 2021-12-01, yes
+linda, financials, balance the  restaurants books, 2021-11-25, 2021-11-01, no
+bob, suppliers, find new suppliers, 2021-11-25, 2021-11-01, no
+tina, cutlery, change the cutlery, 2021-11-25, 2021-11-01, no
+gene, display, remove thanksgiving display, 2021-11-25, 2021-11-01, no
+louise, assist, assist gene with removing thanksgiving display, 2021-11-25, 2021-11-01, no
+bob, special, come up with burger of the day, 2022-01-28, 2022-01-03, no
+linda, money, count the total in the cash register, 2022-01-28, 2022-01-03, no
+linda, coffee, reset the coffee machine, 2022-01-28, 2022-01-03, no
+tina, waitress, serve customers, 2022-01-28, 2022-01-03, no
+tina, hostess, greet and seat customers, 2022-01-28, 2022-01-03, no
+louise, bottles, refill the ketchup and mustard bottles, 2022-01-28, 2022-01-03, no
+louise, behave, don't scare the guests with scary story's, 2022-01-28, 2022-01-03, no
+gene, clean up, clean up tables after the guests leave, 2022-01-28, 2022-01-03, no
+gene, entertain, play a song to entertain the guests, 2022-01-28, 2022-01-03, no
+bob, close, close up the shop, 2022-01-29, 2022-01-03, no
+linda, waitress, serve customers, 2022-01-29, 2022-01-03, no
+gene, clean up, clean up tables after the guests leave, 2022-01-29, 2022-01-03, no
+louise, hostess, greet and seat customers, 2022-01-29, 2022-01-03, no
+admin, error, check taskmanager for errors, 2022-02-14, 2021-12-30, no
+bob, repair, call plumber , 2022-01-05, 2021-12-30, no
+bob, cook book, get new cook book, 2021-01-25, 2021-12-30, no
+admin, software, install new software, 2022-02-04, 2021-12-30, no
+teddy, baby sit, babby sit the kids for the weekend , 2021-10-25, 2022-01-03, yes 
